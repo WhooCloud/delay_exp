@@ -78,7 +78,7 @@ do
 
     ngx.log(ngx.INFO, "NO: ", no, " delay1 is: ", string.format("%.3f",(time_current - time_previous)*1000), " ms")
  --   wb:set_timeout(1000)  -- change the network timeout to 1 second
-    delay_ms(100)
+    delay_ms(1000)
     local json_state_fused = json_state_imu
     json_state_fused.timestamp = get_current_time()
     local data_send = cjson.encode(json_state_fused)
