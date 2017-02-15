@@ -60,7 +60,7 @@ end
 
 local wb, err = server:new{
     --timeout = 30,  -- in milliseconds
-    max_payload_len = 65535,
+    max_payload_len = 200*1024,
 }
 if not wb then
     ngx.log(ngx.ERR, "failed to new websocket: ", err)
