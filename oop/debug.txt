@@ -1,0 +1,578 @@
+{"NO":1487123376.3102,"payload":"0000","timestamp":1487123376.4111}
+bytes: 4 NO: 1487123376.3102 delay2 is: 0.519037 ms
+{"NO":1487123376.4117,"payload":"0000","timestamp":1487123376.512}
+bytes: 4 NO: 1487123376.4117 delay2 is: 0.422955 ms
+{"NO":1487123376.5125,"payload":"0000","timestamp":1487123376.6128}
+bytes: 4 NO: 1487123376.5125 delay2 is: 0.383139 ms
+{"NO":1487123376.6132,"payload":"0000","timestamp":1487123376.7135}
+bytes: 4 NO: 1487123376.6132 delay2 is: 0.437021 ms
+{"NO":1487123376.714,"payload":"0000","timestamp":1487123376.8143}
+bytes: 4 NO: 1487123376.714 delay2 is: 0.454903 ms
+{"NO":1487123376.8148,"payload":"0000","timestamp":1487123376.9151}
+bytes: 4 NO: 1487123376.8148 delay2 is: 0.372887 ms
+{"NO":1487123376.9155,"payload":"0000","timestamp":1487123377.0158}
+bytes: 4 NO: 1487123376.9155 delay2 is: 0.386953 ms
+{"NO":1487123377.0162,"payload":"0000","timestamp":1487123377.1165}
+bytes: 4 NO: 1487123377.0162 delay2 is: 0.423193 ms
+{"NO":1487123377.1169,"payload":"0000","timestamp":1487123377.2173}
+bytes: 4 NO: 1487123377.1169 delay2 is: 0.445127 ms
+{"NO":1487123377.2178,"payload":"0000","timestamp":1487123377.3182}
+bytes: 4 NO: 1487123377.2178 delay2 is: 0.537872 ms
+{"NO":1487123377.3188,"payload":"0000","timestamp":1487123377.4191}
+bytes: 4 NO: 1487123377.3188 delay2 is: 0.479937 ms
+{"NO":1487123377.4196,"payload":"0000","timestamp":1487123377.52}
+bytes: 4 NO: 1487123377.4196 delay2 is: 0.396013 ms
+{"NO":1487123377.5204,"payload":"0000","timestamp":1487123377.6208}
+bytes: 4 NO: 1487123377.5204 delay2 is: 0.460863 ms
+{"NO":1487123377.6213,"payload":"0000","timestamp":1487123377.7216}
+bytes: 4 NO: 1487123377.6213 delay2 is: 0.808954 ms
+{"NO":1487123377.7224,"payload":"0000","timestamp":1487123377.8227}
+bytes: 4 NO: 1487123377.7224 delay2 is: 0.443935 ms
+{"NO":1487123377.8232,"payload":"0000","timestamp":1487123377.9235}
+bytes: 4 NO: 1487123377.8232 delay2 is: 0.392914 ms
+{"NO":1487123377.9239,"payload":"0000","timestamp":1487123378.0242}
+bytes: 4 NO: 1487123377.9239 delay2 is: 0.435114 ms
+{"NO":1487123378.0247,"payload":"0000","timestamp":1487123378.125}
+bytes: 4 NO: 1487123378.0247 delay2 is: 0.365973 ms
+{"NO":1487123378.1254,"payload":"0000","timestamp":1487123378.2257}
+bytes: 4 NO: 1487123378.1254 delay2 is: 0.348091 ms
+{"NO":1487123378.2261,"payload":"0000","timestamp":1487123378.3264}
+bytes: 4 NO: 1487123378.2261 delay2 is: 0.396013 ms
+{"NO":1487123378.3268,"payload":"0000","timestamp":1487123378.4271}
+bytes: 4 NO: 1487123378.3268 delay2 is: 0.41604 ms
+{"NO":1487123378.4275,"payload":"0000","timestamp":1487123378.5279}
+bytes: 4 NO: 1487123378.4275 delay2 is: 0.359058 ms
+{"NO":1487123378.5283,"payload":"0000","timestamp":1487123378.6286}
+bytes: 4 NO: 1487123378.5283 delay2 is: 0.372171 ms
+{"NO":1487123378.629,"payload":"0000","timestamp":1487123378.7293}
+bytes: 4 NO: 1487123378.629 delay2 is: 0.464916 ms
+{"NO":1487123378.7298,"payload":"0000","timestamp":1487123378.8301}
+bytes: 4 NO: 1487123378.7298 delay2 is: 0.510931 ms
+{"NO":1487123378.8306,"payload":"0000","timestamp":1487123378.9309}
+bytes: 4 NO: 1487123378.8306 delay2 is: 0.533819 ms
+{"NO":1487123378.9315,"payload":"0000","timestamp":1487123379.0319}
+bytes: 4 NO: 1487123378.9315 delay2 is: 0.4251 ms
+{"NO":1487123379.0324,"payload":"0000","timestamp":1487123379.1326}
+bytes: 4 NO: 1487123379.0324 delay2 is: 0.488997 ms
+{"NO":1487123379.1331,"payload":"0000","timestamp":1487123379.2334}
+bytes: 4 NO: 1487123379.1331 delay2 is: 0.375986 ms
+{"NO":1487123379.2338,"payload":"0000","timestamp":1487123379.3341}
+bytes: 4 NO: 1487123379.2338 delay2 is: 0.407934 ms
+{"NO":1487123379.3345,"payload":"0000","timestamp":1487123379.4348}
+bytes: 4 NO: 1487123379.3345 delay2 is: 0.462055 ms
+{"NO":1487123379.4353,"payload":"0000","timestamp":1487123379.5356}
+bytes: 4 NO: 1487123379.4353 delay2 is: 0.458002 ms
+{"NO":1487123379.5361,"payload":"0000","timestamp":1487123379.6366}
+bytes: 4 NO: 1487123379.5361 delay2 is: 0.741005 ms
+{"NO":1487123379.6374,"payload":"0000","timestamp":1487123379.7384}
+bytes: 4 NO: 1487123379.6374 delay2 is: 0.446081 ms
+{"NO":1487123379.7389,"payload":"0000","timestamp":1487123379.8392}
+bytes: 4 NO: 1487123379.7389 delay2 is: 0.432014 ms
+{"NO":1487123379.8397,"payload":"0000","timestamp":1487123379.9401}
+bytes: 4 NO: 1487123379.8397 delay2 is: 0.569105 ms
+{"NO":1487123379.9407,"payload":"0000","timestamp":1487123380.0412}
+bytes: 4 NO: 1487123379.9407 delay2 is: 0.594139 ms
+{"NO":1487123380.0418,"payload":"0000","timestamp":1487123380.1422}
+bytes: 4 NO: 1487123380.0418 delay2 is: 1.0879 ms
+{"NO":1487123380.1434,"payload":"0000","timestamp":1487123380.2437}
+bytes: 4 NO: 1487123380.1434 delay2 is: 0.427008 ms
+{"NO":1487123380.2441,"payload":"0000","timestamp":1487123380.3445}
+bytes: 4 NO: 1487123380.2441 delay2 is: 0.352859 ms
+{"NO":1487123380.3449,"payload":"0000","timestamp":1487123380.4452}
+bytes: 4 NO: 1487123380.3449 delay2 is: 0.375986 ms
+{"NO":1487123380.4456,"payload":"0000","timestamp":1487123380.5459}
+bytes: 4 NO: 1487123380.4456 delay2 is: 0.49901 ms
+{"NO":1487123380.5464,"payload":"0000","timestamp":1487123380.6468}
+bytes: 4 NO: 1487123380.5464 delay2 is: 0.463963 ms
+{"NO":1487123380.6473,"payload":"0000","timestamp":1487123380.7476}
+bytes: 4 NO: 1487123380.6473 delay2 is: 0.418901 ms
+{"NO":1487123380.748,"payload":"0000","timestamp":1487123380.8484}
+bytes: 4 NO: 1487123380.748 delay2 is: 0.363827 ms
+{"NO":1487123380.8488,"payload":"0000","timestamp":1487123380.9491}
+bytes: 4 NO: 1487123380.8488 delay2 is: 0.349045 ms
+{"NO":1487123380.9495,"payload":"0000","timestamp":1487123381.0498}
+bytes: 4 NO: 1487123380.9495 delay2 is: 0.399113 ms
+{"NO":1487123381.0502,"payload":"0000","timestamp":1487123381.1506}
+bytes: 4 NO: 1487123381.0502 delay2 is: 0.385046 ms
+{"NO":1487123381.151,"payload":"0000","timestamp":1487123381.2513}
+bytes: 4 NO: 1487123381.151 delay2 is: 0.409842 ms
+{"NO":1487123381.2517,"payload":"0000","timestamp":1487123381.3521}
+bytes: 4 NO: 1487123381.2517 delay2 is: 0.353098 ms
+{"NO":1487123381.3525,"payload":"0000","timestamp":1487123381.4528}
+bytes: 4 NO: 1487123381.3525 delay2 is: 0.381947 ms
+{"NO":1487123381.4532,"payload":"0000","timestamp":1487123381.5536}
+bytes: 4 NO: 1487123381.4532 delay2 is: 0.466824 ms
+{"NO":1487123381.5541,"payload":"0000","timestamp":1487123381.6544}
+bytes: 4 NO: 1487123381.5541 delay2 is: 0.409842 ms
+{"NO":1487123381.6548,"payload":"0000","timestamp":1487123381.7552}
+bytes: 4 NO: 1487123381.6548 delay2 is: 0.454187 ms
+{"NO":1487123381.7557,"payload":"0000","timestamp":1487123381.856}
+bytes: 4 NO: 1487123381.7557 delay2 is: 0.37694 ms
+{"NO":1487123381.8564,"payload":"0000","timestamp":1487123381.9567}
+bytes: 4 NO: 1487123381.8564 delay2 is: 0.500917 ms
+{"NO":1487123381.9572,"payload":"0000","timestamp":1487123382.0575}
+bytes: 4 NO: 1487123381.9572 delay2 is: 0.409126 ms
+{"NO":1487123382.0579,"payload":"0000","timestamp":1487123382.1582}
+bytes: 4 NO: 1487123382.0579 delay2 is: 0.452042 ms
+{"NO":1487123382.1587,"payload":"0000","timestamp":1487123382.259}
+bytes: 4 NO: 1487123382.1587 delay2 is: 0.416994 ms
+{"NO":1487123382.2594,"payload":"0000","timestamp":1487123382.3597}
+bytes: 4 NO: 1487123382.2594 delay2 is: 0.503063 ms
+{"NO":1487123382.3602,"payload":"0000","timestamp":1487123382.4606}
+bytes: 4 NO: 1487123382.3602 delay2 is: 0.492096 ms
+{"NO":1487123382.4611,"payload":"0000","timestamp":1487123382.5616}
+bytes: 4 NO: 1487123382.4611 delay2 is: 1.16897 ms
+{"NO":1487123382.5628,"payload":"0000","timestamp":1487123382.6631}
+bytes: 4 NO: 1487123382.5628 delay2 is: 0.428915 ms
+{"NO":1487123382.6635,"payload":"0000","timestamp":1487123382.7639}
+bytes: 4 NO: 1487123382.6635 delay2 is: 0.424862 ms
+{"NO":1487123382.7644,"payload":"0000","timestamp":1487123382.8647}
+bytes: 4 NO: 1487123382.7644 delay2 is: 0.434875 ms
+{"NO":1487123382.8652,"payload":"0000","timestamp":1487123382.9655}
+bytes: 4 NO: 1487123382.8652 delay2 is: 0.454903 ms
+{"NO":1487123382.966,"payload":"0000","timestamp":1487123383.0662}
+bytes: 4 NO: 1487123382.966 delay2 is: 0.473976 ms
+{"NO":1487123383.0667,"payload":"0000","timestamp":1487123383.167}
+bytes: 4 NO: 1487123383.0667 delay2 is: 0.355005 ms
+{"NO":1487123383.1674,"payload":"0000","timestamp":1487123383.2677}
+bytes: 4 NO: 1487123383.1674 delay2 is: 0.452995 ms
+{"NO":1487123383.2682,"payload":"0000","timestamp":1487123383.3685}
+bytes: 4 NO: 1487123383.2682 delay2 is: 0.401974 ms
+{"NO":1487123383.3689,"payload":"0000","timestamp":1487123383.4692}
+bytes: 4 NO: 1487123383.3689 delay2 is: 0.558138 ms
+{"NO":1487123383.4698,"payload":"0000","timestamp":1487123383.5701}
+bytes: 4 NO: 1487123383.4698 delay2 is: 0.387907 ms
+{"NO":1487123383.5705,"payload":"0000","timestamp":1487123383.6709}
+bytes: 4 NO: 1487123383.5705 delay2 is: 0.387907 ms
+{"NO":1487123383.6713,"payload":"0000","timestamp":1487123383.7716}
+bytes: 4 NO: 1487123383.6713 delay2 is: 0.432968 ms
+{"NO":1487123383.7721,"payload":"0000","timestamp":1487123383.8724}
+bytes: 4 NO: 1487123383.7721 delay2 is: 0.648975 ms
+{"NO":1487123383.8731,"payload":"0000","timestamp":1487123383.9733}
+bytes: 4 NO: 1487123383.8731 delay2 is: 1.13106 ms
+{"NO":1487123383.9745,"payload":"0000","timestamp":1487123384.075}
+bytes: 4 NO: 1487123383.9745 delay2 is: 0.418901 ms
+{"NO":1487123384.0755,"payload":"0000","timestamp":1487123384.1759}
+bytes: 4 NO: 1487123384.0755 delay2 is: 0.520945 ms
+{"NO":1487123384.1764,"payload":"0000","timestamp":1487123384.2768}
+bytes: 4 NO: 1487123384.1764 delay2 is: 0.504971 ms
+{"NO":1487123384.2773,"payload":"0000","timestamp":1487123384.3785}
+bytes: 4 NO: 1487123384.2773 delay2 is: 0.440121 ms
+{"NO":1487123384.379,"payload":"0000","timestamp":1487123384.4793}
+bytes: 4 NO: 1487123384.379 delay2 is: 0.340939 ms
+{"NO":1487123384.4797,"payload":"0000","timestamp":1487123384.5799}
+bytes: 4 NO: 1487123384.4797 delay2 is: 0.448942 ms
+{"NO":1487123384.5804,"payload":"0000","timestamp":1487123384.6807}
+bytes: 4 NO: 1487123384.5804 delay2 is: 0.383854 ms
+{"NO":1487123384.6811,"payload":"0000","timestamp":1487123384.7814}
+bytes: 4 NO: 1487123384.6811 delay2 is: 0.386 ms
+{"NO":1487123384.7818,"payload":"0000","timestamp":1487123384.8821}
+bytes: 4 NO: 1487123384.7818 delay2 is: 0.408888 ms
+{"NO":1487123384.8825,"payload":"0000","timestamp":1487123384.9828}
+bytes: 4 NO: 1487123384.8825 delay2 is: 0.418901 ms
+{"NO":1487123384.9832,"payload":"0000","timestamp":1487123385.0835}
+bytes: 4 NO: 1487123384.9832 delay2 is: 0.478029 ms
+{"NO":1487123385.084,"payload":"0000","timestamp":1487123385.1846}
+bytes: 4 NO: 1487123385.084 delay2 is: 0.431776 ms
+{"NO":1487123385.1851,"payload":"0000","timestamp":1487123385.2854}
+bytes: 4 NO: 1487123385.1851 delay2 is: 0.405073 ms
+{"NO":1487123385.2858,"payload":"0000","timestamp":1487123385.3862}
+bytes: 4 NO: 1487123385.2858 delay2 is: 0.482082 ms
+{"NO":1487123385.3867,"payload":"0000","timestamp":1487123385.4873}
+bytes: 4 NO: 1487123385.3867 delay2 is: 0.478029 ms
+{"NO":1487123385.4878,"payload":"0000","timestamp":1487123385.5882}
+bytes: 4 NO: 1487123385.4878 delay2 is: 0.697851 ms
+{"NO":1487123385.5889,"payload":"0000","timestamp":1487123385.6895}
+bytes: 4 NO: 1487123385.5889 delay2 is: 0.696898 ms
+{"NO":1487123385.6902,"payload":"0000","timestamp":1487123385.7907}
+bytes: 4 NO: 1487123385.6902 delay2 is: 0.47493 ms
+{"NO":1487123385.7912,"payload":"0000","timestamp":1487123385.8915}
+bytes: 4 NO: 1487123385.7912 delay2 is: 0.466108 ms
+{"NO":1487123385.892,"payload":"0000","timestamp":1487123385.9923}
+bytes: 4 NO: 1487123385.892 delay2 is: 0.48089 ms
+{"NO":1487123385.9928,"payload":"0000","timestamp":1487123386.0931}
+bytes: 4 NO: 1487123385.9928 delay2 is: 0.406981 ms
+{"NO":1487123386.0935,"payload":"0000","timestamp":1487123386.1938}
+bytes: 4 NO: 1487123386.0935 delay2 is: 0.396967 ms
+{"NO":1487123386.1942,"payload":"0000","timestamp":1487123386.2945}
+bytes: 4 NO: 1487123386.1942 delay2 is: 0.369787 ms
+{"NO":1487123386.2949,"payload":"0000","timestamp":1487123386.3951}
+bytes: 4 NO: 1487123386.2949 delay2 is: 0.423908 ms
+{"NO":1487123386.3955,"payload":"0000","timestamp":1487123386.4958}
+bytes: 4 NO: 1487123386.3955 delay2 is: 0.431061 ms
+{"NO":1487123386.4963,"payload":"0000","timestamp":1487123386.5965}
+bytes: 4 NO: 1487123386.4963 delay2 is: 0.445127 ms
+{"NO":1487123386.597,"payload":"0000","timestamp":1487123386.6973}
+bytes: 4 NO: 1487123386.597 delay2 is: 0.402927 ms
+{"NO":1487123386.6977,"payload":"0000","timestamp":1487123386.7981}
+bytes: 4 NO: 1487123386.6977 delay2 is: 0.370026 ms
+{"NO":1487123386.7985,"payload":"0000","timestamp":1487123386.8989}
+bytes: 4 NO: 1487123386.7985 delay2 is: 0.422955 ms
+{"NO":1487123386.8993,"payload":"0000","timestamp":1487123386.9996}
+bytes: 4 NO: 1487123386.8993 delay2 is: 0.440121 ms
+{"NO":1487123387.0001,"payload":"0000","timestamp":1487123387.1004}
+bytes: 4 NO: 1487123387.0001 delay2 is: 0.373125 ms
+{"NO":1487123387.1008,"payload":"0000","timestamp":1487123387.2011}
+bytes: 4 NO: 1487123387.1008 delay2 is: 0.379801 ms
+{"NO":1487123387.2015,"payload":"0000","timestamp":1487123387.3018}
+bytes: 4 NO: 1487123387.2015 delay2 is: 0.365019 ms
+{"NO":1487123387.3022,"payload":"0000","timestamp":1487123387.4025}
+bytes: 4 NO: 1487123387.3022 delay2 is: 0.49305 ms
+{"NO":1487123387.403,"payload":"0000","timestamp":1487123387.5033}
+bytes: 4 NO: 1487123387.403 delay2 is: 0.468016 ms
+{"NO":1487123387.5038,"payload":"0000","timestamp":1487123387.6041}
+bytes: 4 NO: 1487123387.5038 delay2 is: 0.448942 ms
+{"NO":1487123387.6046,"payload":"0000","timestamp":1487123387.7048}
+bytes: 4 NO: 1487123387.6046 delay2 is: 0.442028 ms
+{"NO":1487123387.7053,"payload":"0000","timestamp":1487123387.8056}
+bytes: 4 NO: 1487123387.7053 delay2 is: 0.509977 ms
+{"NO":1487123387.8061,"payload":"0000","timestamp":1487123387.9065}
+bytes: 4 NO: 1487123387.8061 delay2 is: 0.432968 ms
+{"NO":1487123387.907,"payload":"0000","timestamp":1487123388.0073}
+bytes: 4 NO: 1487123387.907 delay2 is: 0.452042 ms
+{"NO":1487123388.0078,"payload":"0000","timestamp":1487123388.1081}
+bytes: 4 NO: 1487123388.0078 delay2 is: 0.409126 ms
+{"NO":1487123388.1085,"payload":"0000","timestamp":1487123388.2088}
+bytes: 4 NO: 1487123388.1085 delay2 is: 0.39196 ms
+{"NO":1487123388.2092,"payload":"0000","timestamp":1487123388.3095}
+bytes: 4 NO: 1487123388.2092 delay2 is: 0.405073 ms
+{"NO":1487123388.3099,"payload":"0000","timestamp":1487123388.4102}
+bytes: 4 NO: 1487123388.3099 delay2 is: 0.414848 ms
+{"NO":1487123388.4106,"payload":"0000","timestamp":1487123388.511}
+bytes: 4 NO: 1487123388.4106 delay2 is: 0.347137 ms
+{"NO":1487123388.5114,"payload":"0000","timestamp":1487123388.6116}
+bytes: 4 NO: 1487123388.5114 delay2 is: 0.450134 ms
+{"NO":1487123388.6121,"payload":"0000","timestamp":1487123388.7124}
+bytes: 4 NO: 1487123388.6121 delay2 is: 0.360966 ms
+{"NO":1487123388.7128,"payload":"0000","timestamp":1487123388.8131}
+bytes: 4 NO: 1487123388.7128 delay2 is: 0.392914 ms
+{"NO":1487123388.8135,"payload":"0000","timestamp":1487123388.9138}
+bytes: 4 NO: 1487123388.8135 delay2 is: 0.413895 ms
+{"NO":1487123388.9142,"payload":"0000","timestamp":1487123389.0145}
+bytes: 4 NO: 1487123388.9142 delay2 is: 0.416994 ms
+{"NO":1487123389.0149,"payload":"0000","timestamp":1487123389.1153}
+bytes: 4 NO: 1487123389.0149 delay2 is: 0.452995 ms
+{"NO":1487123389.1158,"payload":"0000","timestamp":1487123389.2161}
+bytes: 4 NO: 1487123389.1158 delay2 is: 0.432014 ms
+{"NO":1487123389.2166,"payload":"0000","timestamp":1487123389.3168}
+bytes: 4 NO: 1487123389.2166 delay2 is: 0.430822 ms
+{"NO":1487123389.3173,"payload":"0000","timestamp":1487123389.4175}
+bytes: 4 NO: 1487123389.3173 delay2 is: 0.46587 ms
+{"NO":1487123389.418,"payload":"0000","timestamp":1487123389.5184}
+bytes: 4 NO: 1487123389.418 delay2 is: 0.424147 ms
+{"NO":1487123389.5188,"payload":"0000","timestamp":1487123389.6192}
+bytes: 4 NO: 1487123389.5188 delay2 is: 0.396013 ms
+{"NO":1487123389.6196,"payload":"0000","timestamp":1487123389.7205}
+bytes: 4 NO: 1487123389.6196 delay2 is: 0.551939 ms
+{"NO":1487123389.7211,"payload":"0000","timestamp":1487123389.8217}
+bytes: 4 NO: 1487123389.7211 delay2 is: 0.533819 ms
+{"NO":1487123389.8223,"payload":"0000","timestamp":1487123389.9228}
+bytes: 4 NO: 1487123389.8223 delay2 is: 0.495911 ms
+{"NO":1487123389.9233,"payload":"0000","timestamp":1487123390.0239}
+bytes: 4 NO: 1487123389.9233 delay2 is: 1.14489 ms
+{"NO":1487123390.0251,"payload":"0000","timestamp":1487123390.1259}
+bytes: 4 NO: 1487123390.0251 delay2 is: 0.447035 ms
+{"NO":1487123390.1264,"payload":"0000","timestamp":1487123390.2267}
+bytes: 4 NO: 1487123390.1264 delay2 is: 0.437975 ms
+{"NO":1487123390.2272,"payload":"0000","timestamp":1487123390.3275}
+bytes: 4 NO: 1487123390.2272 delay2 is: 0.45085 ms
+{"NO":1487123390.328,"payload":"0000","timestamp":1487123390.4283}
+bytes: 4 NO: 1487123390.328 delay2 is: 0.399113 ms
+{"NO":1487123390.4287,"payload":"0000","timestamp":1487123390.529}
+bytes: 4 NO: 1487123390.4287 delay2 is: 0.411987 ms
+{"NO":1487123390.5294,"payload":"0000","timestamp":1487123390.6298}
+bytes: 4 NO: 1487123390.5294 delay2 is: 0.346899 ms
+{"NO":1487123390.6302,"payload":"0000","timestamp":1487123390.7305}
+bytes: 4 NO: 1487123390.6302 delay2 is: 0.355005 ms
+{"NO":1487123390.7309,"payload":"0000","timestamp":1487123390.8312}
+bytes: 4 NO: 1487123390.7309 delay2 is: 0.435114 ms
+{"NO":1487123390.8317,"payload":"0000","timestamp":1487123390.9319}
+bytes: 4 NO: 1487123390.8317 delay2 is: 0.422955 ms
+{"NO":1487123390.9324,"payload":"0000","timestamp":1487123391.0327}
+bytes: 4 NO: 1487123390.9324 delay2 is: 0.452042 ms
+{"NO":1487123391.0332,"payload":"0000","timestamp":1487123391.1335}
+bytes: 4 NO: 1487123391.0332 delay2 is: 0.383854 ms
+{"NO":1487123391.1339,"payload":"0000","timestamp":1487123391.2343}
+bytes: 4 NO: 1487123391.1339 delay2 is: 0.380993 ms
+{"NO":1487123391.2347,"payload":"0000","timestamp":1487123391.335}
+bytes: 4 NO: 1487123391.2347 delay2 is: 0.468969 ms
+{"NO":1487123391.3355,"payload":"0000","timestamp":1487123391.4358}
+bytes: 4 NO: 1487123391.3355 delay2 is: 0.360966 ms
+{"NO":1487123391.4362,"payload":"0000","timestamp":1487123391.5365}
+bytes: 4 NO: 1487123391.4362 delay2 is: 0.412941 ms
+{"NO":1487123391.5369,"payload":"0000","timestamp":1487123391.6373}
+bytes: 4 NO: 1487123391.5369 delay2 is: 0.351906 ms
+{"NO":1487123391.6377,"payload":"0000","timestamp":1487123391.7379}
+bytes: 4 NO: 1487123391.6377 delay2 is: 0.442028 ms
+{"NO":1487123391.7384,"payload":"0000","timestamp":1487123391.8387}
+bytes: 4 NO: 1487123391.7384 delay2 is: 0.45085 ms
+{"NO":1487123391.8392,"payload":"0000","timestamp":1487123391.9395}
+bytes: 4 NO: 1487123391.8392 delay2 is: 0.415802 ms
+{"NO":1487123391.94,"payload":"0000","timestamp":1487123392.0402}
+bytes: 4 NO: 1487123391.94 delay2 is: 0.462055 ms
+{"NO":1487123392.0407,"payload":"0000","timestamp":1487123392.141}
+bytes: 4 NO: 1487123392.0407 delay2 is: 0.424862 ms
+{"NO":1487123392.1415,"payload":"0000","timestamp":1487123392.2418}
+bytes: 4 NO: 1487123392.1415 delay2 is: 0.455856 ms
+{"NO":1487123392.2423,"payload":"0000","timestamp":1487123392.3426}
+bytes: 4 NO: 1487123392.2423 delay2 is: 0.487804 ms
+{"NO":1487123392.3431,"payload":"0000","timestamp":1487123392.4435}
+bytes: 4 NO: 1487123392.3431 delay2 is: 0.378847 ms
+{"NO":1487123392.4439,"payload":"0000","timestamp":1487123392.5442}
+bytes: 4 NO: 1487123392.4439 delay2 is: 0.424147 ms
+{"NO":1487123392.5447,"payload":"0000","timestamp":1487123392.645}
+bytes: 4 NO: 1487123392.5447 delay2 is: 0.445127 ms
+{"NO":1487123392.6455,"payload":"0000","timestamp":1487123392.7459}
+bytes: 4 NO: 1487123392.6455 delay2 is: 0.40102 ms
+{"NO":1487123392.7463,"payload":"0000","timestamp":1487123392.8466}
+bytes: 4 NO: 1487123392.7463 delay2 is: 0.406027 ms
+{"NO":1487123392.847,"payload":"0000","timestamp":1487123392.9473}
+bytes: 4 NO: 1487123392.847 delay2 is: 0.401974 ms
+{"NO":1487123392.9477,"payload":"0000","timestamp":1487123393.048}
+bytes: 4 NO: 1487123392.9477 delay2 is: 0.405788 ms
+{"NO":1487123393.0484,"payload":"0000","timestamp":1487123393.1487}
+bytes: 4 NO: 1487123393.0484 delay2 is: 0.430107 ms
+{"NO":1487123393.1492,"payload":"0000","timestamp":1487123393.2494}
+bytes: 4 NO: 1487123393.1492 delay2 is: 0.416994 ms
+{"NO":1487123393.2498,"payload":"0000","timestamp":1487123393.3501}
+bytes: 4 NO: 1487123393.2498 delay2 is: 0.390053 ms
+{"NO":1487123393.3505,"payload":"0000","timestamp":1487123393.4508}
+bytes: 4 NO: 1487123393.3505 delay2 is: 0.430107 ms
+{"NO":1487123393.4513,"payload":"0000","timestamp":1487123393.5516}
+bytes: 4 NO: 1487123393.4513 delay2 is: 0.360966 ms
+{"NO":1487123393.552,"payload":"0000","timestamp":1487123393.6523}
+bytes: 4 NO: 1487123393.552 delay2 is: 0.358105 ms
+{"NO":1487123393.6527,"payload":"0000","timestamp":1487123393.7529}
+bytes: 4 NO: 1487123393.6527 delay2 is: 0.449181 ms
+{"NO":1487123393.7534,"payload":"0000","timestamp":1487123393.8537}
+bytes: 4 NO: 1487123393.7534 delay2 is: 0.373125 ms
+{"NO":1487123393.8541,"payload":"0000","timestamp":1487123393.9546}
+bytes: 4 NO: 1487123393.8541 delay2 is: 0.402927 ms
+{"NO":1487123393.955,"payload":"0000","timestamp":1487123394.0554}
+bytes: 4 NO: 1487123393.955 delay2 is: 0.474215 ms
+{"NO":1487123394.0559,"payload":"0000","timestamp":1487123394.1562}
+bytes: 4 NO: 1487123394.0559 delay2 is: 0.611067 ms
+{"NO":1487123394.1569,"payload":"0000","timestamp":1487123394.2572}
+bytes: 4 NO: 1487123394.1569 delay2 is: 0.649929 ms
+{"NO":1487123394.2579,"payload":"0000","timestamp":1487123394.3583}
+bytes: 4 NO: 1487123394.2579 delay2 is: 0.483036 ms
+{"NO":1487123394.3588,"payload":"0000","timestamp":1487123394.4591}
+bytes: 4 NO: 1487123394.3588 delay2 is: 0.473976 ms
+{"NO":1487123394.4596,"payload":"0000","timestamp":1487123394.5599}
+bytes: 4 NO: 1487123394.4596 delay2 is: 0.473976 ms
+{"NO":1487123394.5604,"payload":"0000","timestamp":1487123394.6611}
+bytes: 4 NO: 1487123394.5604 delay2 is: 0.403166 ms
+{"NO":1487123394.6615,"payload":"0000","timestamp":1487123394.7618}
+bytes: 4 NO: 1487123394.6615 delay2 is: 0.476837 ms
+{"NO":1487123394.7623,"payload":"0000","timestamp":1487123394.8626}
+bytes: 4 NO: 1487123394.7623 delay2 is: 0.45085 ms
+{"NO":1487123394.8631,"payload":"0000","timestamp":1487123394.9636}
+bytes: 4 NO: 1487123394.8631 delay2 is: 0.365019 ms
+{"NO":1487123394.964,"payload":"0000","timestamp":1487123395.0643}
+bytes: 4 NO: 1487123394.964 delay2 is: 0.452042 ms
+{"NO":1487123395.0648,"payload":"0000","timestamp":1487123395.1651}
+bytes: 4 NO: 1487123395.0648 delay2 is: 0.521898 ms
+{"NO":1487123395.1657,"payload":"0000","timestamp":1487123395.267}
+bytes: 4 NO: 1487123395.1657 delay2 is: 0.452042 ms
+{"NO":1487123395.2675,"payload":"0000","timestamp":1487123395.3678}
+bytes: 4 NO: 1487123395.2675 delay2 is: 0.411987 ms
+{"NO":1487123395.3682,"payload":"0000","timestamp":1487123395.4685}
+bytes: 4 NO: 1487123395.3682 delay2 is: 0.41604 ms
+{"NO":1487123395.4689,"payload":"0000","timestamp":1487123395.5692}
+bytes: 4 NO: 1487123395.4689 delay2 is: 0.40102 ms
+{"NO":1487123395.5696,"payload":"0000","timestamp":1487123395.6699}
+bytes: 4 NO: 1487123395.5696 delay2 is: 1.93715 ms
+{"NO":1487123395.6719,"payload":"0000","timestamp":1487123395.7723}
+bytes: 4 NO: 1487123395.6719 delay2 is: 0.421047 ms
+{"NO":1487123395.7727,"payload":"0000","timestamp":1487123395.873}
+bytes: 4 NO: 1487123395.7727 delay2 is: 0.504017 ms
+{"NO":1487123395.8735,"payload":"0000","timestamp":1487123395.9738}
+bytes: 4 NO: 1487123395.8735 delay2 is: 0.48399 ms
+{"NO":1487123395.9743,"payload":"0000","timestamp":1487123396.0746}
+bytes: 4 NO: 1487123395.9743 delay2 is: 0.458956 ms
+{"NO":1487123396.0751,"payload":"0000","timestamp":1487123396.1754}
+bytes: 4 NO: 1487123396.0751 delay2 is: 0.467062 ms
+{"NO":1487123396.1759,"payload":"0000","timestamp":1487123396.2762}
+bytes: 4 NO: 1487123396.1759 delay2 is: 0.447989 ms
+{"NO":1487123396.2767,"payload":"0000","timestamp":1487123396.3769}
+bytes: 4 NO: 1487123396.2767 delay2 is: 0.447035 ms
+{"NO":1487123396.3774,"payload":"0000","timestamp":1487123396.4777}
+bytes: 4 NO: 1487123396.3774 delay2 is: 0.444889 ms
+{"NO":1487123396.4782,"payload":"0000","timestamp":1487123396.5785}
+bytes: 4 NO: 1487123396.4782 delay2 is: 0.400066 ms
+{"NO":1487123396.5789,"payload":"0000","timestamp":1487123396.6792}
+bytes: 4 NO: 1487123396.5789 delay2 is: 0.444174 ms
+{"NO":1487123396.6797,"payload":"0000","timestamp":1487123396.7799}
+bytes: 4 NO: 1487123396.6797 delay2 is: 0.438929 ms
+{"NO":1487123396.7804,"payload":"0000","timestamp":1487123396.8806}
+bytes: 4 NO: 1487123396.7804 delay2 is: 0.428915 ms
+{"NO":1487123396.8811,"payload":"0000","timestamp":1487123396.9815}
+bytes: 4 NO: 1487123396.8811 delay2 is: 0.374079 ms
+{"NO":1487123396.9819,"payload":"0000","timestamp":1487123397.0822}
+bytes: 4 NO: 1487123396.9819 delay2 is: 0.402927 ms
+{"NO":1487123397.0826,"payload":"0000","timestamp":1487123397.1829}
+bytes: 4 NO: 1487123397.0826 delay2 is: 0.468969 ms
+{"NO":1487123397.1834,"payload":"0000","timestamp":1487123397.2837}
+bytes: 4 NO: 1487123397.1834 delay2 is: 0.405073 ms
+{"NO":1487123397.2841,"payload":"0000","timestamp":1487123397.3844}
+bytes: 4 NO: 1487123397.2841 delay2 is: 0.414133 ms
+{"NO":1487123397.3848,"payload":"0000","timestamp":1487123397.4851}
+bytes: 4 NO: 1487123397.3848 delay2 is: 0.41008 ms
+{"NO":1487123397.4855,"payload":"0000","timestamp":1487123397.5858}
+bytes: 4 NO: 1487123397.4855 delay2 is: 0.471115 ms
+{"NO":1487123397.5863,"payload":"0000","timestamp":1487123397.6866}
+bytes: 4 NO: 1487123397.5863 delay2 is: 0.358105 ms
+{"NO":1487123397.687,"payload":"0000","timestamp":1487123397.7873}
+bytes: 4 NO: 1487123397.687 delay2 is: 0.361919 ms
+{"NO":1487123397.7877,"payload":"0000","timestamp":1487123397.888}
+bytes: 4 NO: 1487123397.7877 delay2 is: 0.468016 ms
+{"NO":1487123397.8885,"payload":"0000","timestamp":1487123397.9888}
+bytes: 4 NO: 1487123397.8885 delay2 is: 0.411987 ms
+{"NO":1487123397.9892,"payload":"0000","timestamp":1487123398.0895}
+bytes: 4 NO: 1487123397.9892 delay2 is: 0.510931 ms
+{"NO":1487123398.09,"payload":"0000","timestamp":1487123398.1904}
+bytes: 4 NO: 1487123398.09 delay2 is: 0.438213 ms
+{"NO":1487123398.1909,"payload":"0000","timestamp":1487123398.2912}
+bytes: 4 NO: 1487123398.1909 delay2 is: 0.408173 ms
+{"NO":1487123398.2916,"payload":"0000","timestamp":1487123398.3919}
+bytes: 4 NO: 1487123398.2916 delay2 is: 0.453949 ms
+{"NO":1487123398.3924,"payload":"0000","timestamp":1487123398.4927}
+bytes: 4 NO: 1487123398.3924 delay2 is: 0.432968 ms
+{"NO":1487123398.4932,"payload":"0000","timestamp":1487123398.5935}
+bytes: 4 NO: 1487123398.4932 delay2 is: 0.389099 ms
+{"NO":1487123398.5939,"payload":"0000","timestamp":1487123398.6942}
+bytes: 4 NO: 1487123398.5939 delay2 is: 0.426054 ms
+{"NO":1487123398.6947,"payload":"0000","timestamp":1487123398.795}
+bytes: 4 NO: 1487123398.6947 delay2 is: 0.413895 ms
+{"NO":1487123398.7954,"payload":"0000","timestamp":1487123398.8958}
+bytes: 4 NO: 1487123398.7954 delay2 is: 0.399828 ms
+{"NO":1487123398.8962,"payload":"0000","timestamp":1487123398.9965}
+bytes: 4 NO: 1487123398.8962 delay2 is: 0.844002 ms
+{"NO":1487123398.9974,"payload":"0000","timestamp":1487123399.0977}
+bytes: 4 NO: 1487123398.9974 delay2 is: 0.366926 ms
+{"NO":1487123399.0981,"payload":"0000","timestamp":1487123399.1984}
+bytes: 4 NO: 1487123399.0981 delay2 is: 0.47493 ms
+{"NO":1487123399.1989,"payload":"0000","timestamp":1487123399.2992}
+bytes: 4 NO: 1487123399.1989 delay2 is: 0.37384 ms
+{"NO":1487123399.2996,"payload":"0000","timestamp":1487123399.3999}
+bytes: 4 NO: 1487123399.2996 delay2 is: 0.401974 ms
+{"NO":1487123399.4003,"payload":"0000","timestamp":1487123399.5007}
+bytes: 4 NO: 1487123399.4003 delay2 is: 0.416994 ms
+{"NO":1487123399.5011,"payload":"0000","timestamp":1487123399.6014}
+bytes: 4 NO: 1487123399.5011 delay2 is: 0.422001 ms
+{"NO":1487123399.6019,"payload":"0000","timestamp":1487123399.7021}
+bytes: 4 NO: 1487123399.6019 delay2 is: 0.442028 ms
+{"NO":1487123399.7026,"payload":"0000","timestamp":1487123399.8029}
+bytes: 4 NO: 1487123399.7026 delay2 is: 0.552893 ms
+{"NO":1487123399.8035,"payload":"0000","timestamp":1487123399.9042}
+bytes: 4 NO: 1487123399.8035 delay2 is: 0.602007 ms
+{"NO":1487123399.9048,"payload":"0000","timestamp":1487123400.0056}
+bytes: 4 NO: 1487123399.9048 delay2 is: 0.461102 ms
+{"NO":1487123400.0061,"payload":"0000","timestamp":1487123400.1064}
+bytes: 4 NO: 1487123400.0061 delay2 is: 0.586033 ms
+{"NO":1487123400.107,"payload":"0000","timestamp":1487123400.2074}
+bytes: 4 NO: 1487123400.107 delay2 is: 0.490904 ms
+{"NO":1487123400.2079,"payload":"0000","timestamp":1487123400.3084}
+bytes: 4 NO: 1487123400.2079 delay2 is: 0.497103 ms
+{"NO":1487123400.3089,"payload":"0000","timestamp":1487123400.4092}
+bytes: 4 NO: 1487123400.3089 delay2 is: 0.654936 ms
+{"NO":1487123400.4099,"payload":"0000","timestamp":1487123400.5103}
+bytes: 4 NO: 1487123400.4099 delay2 is: 1.297 ms
+{"NO":1487123400.5116,"payload":"0000","timestamp":1487123400.612}
+bytes: 4 NO: 1487123400.5116 delay2 is: 0.452995 ms
+{"NO":1487123400.6125,"payload":"0000","timestamp":1487123400.7128}
+bytes: 4 NO: 1487123400.6125 delay2 is: 0.393867 ms
+{"NO":1487123400.7132,"payload":"0000","timestamp":1487123400.8135}
+bytes: 4 NO: 1487123400.7132 delay2 is: 0.967979 ms
+{"NO":1487123400.8145,"payload":"0000","timestamp":1487123400.9149}
+bytes: 4 NO: 1487123400.8145 delay2 is: 0.363827 ms
+{"NO":1487123400.9153,"payload":"0000","timestamp":1487123401.0156}
+bytes: 4 NO: 1487123400.9153 delay2 is: 0.487089 ms
+{"NO":1487123401.0161,"payload":"0000","timestamp":1487123401.1164}
+bytes: 4 NO: 1487123401.0161 delay2 is: 0.4251 ms
+{"NO":1487123401.1169,"payload":"0000","timestamp":1487123401.2172}
+bytes: 4 NO: 1487123401.1169 delay2 is: 0.371933 ms
+{"NO":1487123401.2176,"payload":"0000","timestamp":1487123401.3179}
+bytes: 4 NO: 1487123401.2176 delay2 is: 0.446081 ms
+{"NO":1487123401.3184,"payload":"0000","timestamp":1487123401.4187}
+bytes: 4 NO: 1487123401.3184 delay2 is: 0.417948 ms
+{"NO":1487123401.4191,"payload":"0000","timestamp":1487123401.5195}
+bytes: 4 NO: 1487123401.4191 delay2 is: 0.416994 ms
+{"NO":1487123401.5199,"payload":"0000","timestamp":1487123401.6202}
+bytes: 4 NO: 1487123401.5199 delay2 is: 0.394106 ms
+{"NO":1487123401.6206,"payload":"0000","timestamp":1487123401.7209}
+bytes: 4 NO: 1487123401.6206 delay2 is: 0.406981 ms
+{"NO":1487123401.7213,"payload":"0000","timestamp":1487123401.8217}
+bytes: 4 NO: 1487123401.7213 delay2 is: 0.360012 ms
+{"NO":1487123401.8221,"payload":"0000","timestamp":1487123401.9224}
+bytes: 4 NO: 1487123401.8221 delay2 is: 0.453949 ms
+{"NO":1487123401.9229,"payload":"0000","timestamp":1487123402.0232}
+bytes: 4 NO: 1487123401.9229 delay2 is: 0.359058 ms
+{"NO":1487123402.0236,"payload":"0000","timestamp":1487123402.1238}
+bytes: 4 NO: 1487123402.0236 delay2 is: 0.498056 ms
+{"NO":1487123402.1243,"payload":"0000","timestamp":1487123402.2247}
+bytes: 4 NO: 1487123402.1243 delay2 is: 0.527143 ms
+{"NO":1487123402.2253,"payload":"0000","timestamp":1487123402.3256}
+bytes: 4 NO: 1487123402.2253 delay2 is: 0.406027 ms
+{"NO":1487123402.326,"payload":"0000","timestamp":1487123402.4264}
+bytes: 4 NO: 1487123402.326 delay2 is: 0.384092 ms
+{"NO":1487123402.4268,"payload":"0000","timestamp":1487123402.5271}
+bytes: 4 NO: 1487123402.4268 delay2 is: 0.339985 ms
+{"NO":1487123402.5275,"payload":"0000","timestamp":1487123402.6277}
+bytes: 4 NO: 1487123402.5275 delay2 is: 0.460863 ms
+{"NO":1487123402.6282,"payload":"0000","timestamp":1487123402.7285}
+bytes: 4 NO: 1487123402.6282 delay2 is: 0.406027 ms
+{"NO":1487123402.7289,"payload":"0000","timestamp":1487123402.8292}
+bytes: 4 NO: 1487123402.7289 delay2 is: 0.385046 ms
+{"NO":1487123402.8296,"payload":"0000","timestamp":1487123402.93}
+bytes: 4 NO: 1487123402.8296 delay2 is: 0.422001 ms
+{"NO":1487123402.9305,"payload":"0000","timestamp":1487123403.0308}
+bytes: 4 NO: 1487123402.9305 delay2 is: 0.443935 ms
+{"NO":1487123403.0313,"payload":"0000","timestamp":1487123403.1315}
+bytes: 4 NO: 1487123403.0313 delay2 is: 0.48399 ms
+{"NO":1487123403.132,"payload":"0000","timestamp":1487123403.2323}
+bytes: 4 NO: 1487123403.132 delay2 is: 0.442982 ms
+{"NO":1487123403.2328,"payload":"0000","timestamp":1487123403.3331}
+bytes: 4 NO: 1487123403.2328 delay2 is: 0.406027 ms
+{"NO":1487123403.3335,"payload":"0000","timestamp":1487123403.4339}
+bytes: 4 NO: 1487123403.3335 delay2 is: 0.412941 ms
+{"NO":1487123403.4343,"payload":"0000","timestamp":1487123403.5346}
+bytes: 4 NO: 1487123403.4343 delay2 is: 0.411034 ms
+{"NO":1487123403.535,"payload":"0000","timestamp":1487123403.6353}
+bytes: 4 NO: 1487123403.535 delay2 is: 0.446081 ms
+{"NO":1487123403.6358,"payload":"0000","timestamp":1487123403.7361}
+bytes: 4 NO: 1487123403.6358 delay2 is: 0.383139 ms
+{"NO":1487123403.7365,"payload":"0000","timestamp":1487123403.8368}
+bytes: 4 NO: 1487123403.7365 delay2 is: 0.418901 ms
+{"NO":1487123403.8373,"payload":"0000","timestamp":1487123403.9376}
+bytes: 4 NO: 1487123403.8373 delay2 is: 0.800133 ms
+{"NO":1487123403.9385,"payload":"0000","timestamp":1487123404.0392}
+bytes: 4 NO: 1487123403.9385 delay2 is: 1.20282 ms
+{"NO":1487123404.0404,"payload":"0000","timestamp":1487123404.1408}
+bytes: 4 NO: 1487123404.0404 delay2 is: 0.861883 ms
+{"NO":1487123404.1417,"payload":"0000","timestamp":1487123404.2433}
+bytes: 4 NO: 1487123404.1417 delay2 is: 0.400066 ms
+{"NO":1487123404.2437,"payload":"0000","timestamp":1487123404.344}
+bytes: 4 NO: 1487123404.2437 delay2 is: 1.32799 ms
+{"NO":1487123404.3454,"payload":"0000","timestamp":1487123404.4457}
+bytes: 4 NO: 1487123404.3454 delay2 is: 0.473022 ms
+{"NO":1487123404.4462,"payload":"0000","timestamp":1487123404.5465}
+bytes: 4 NO: 1487123404.4462 delay2 is: 0.396967 ms
+{"NO":1487123404.5469,"payload":"0000","timestamp":1487123404.6472}
+bytes: 4 NO: 1487123404.5469 delay2 is: 0.347853 ms
+{"NO":1487123404.6476,"payload":"0000","timestamp":1487123404.7479}
+bytes: 4 NO: 1487123404.6476 delay2 is: 0.381947 ms
+{"NO":1487123404.7483,"payload":"0000","timestamp":1487123404.8487}
+bytes: 4 NO: 1487123404.7483 delay2 is: 0.386 ms
+{"NO":1487123404.8491,"payload":"0000","timestamp":1487123404.9494}
+bytes: 4 NO: 1487123404.8491 delay2 is: 1.10412 ms
+{"NO":1487123404.9509,"payload":"0000","timestamp":1487123405.0512}
+bytes: 4 NO: 1487123404.9509 delay2 is: 0.369072 ms
+{"NO":1487123405.0516,"payload":"0000","timestamp":1487123405.1519}
+bytes: 4 NO: 1487123405.0516 delay2 is: 0.433922 ms
+{"NO":1487123405.1524,"payload":"0000","timestamp":1487123405.2527}
+bytes: 4 NO: 1487123405.1524 delay2 is: 0.442982 ms
+{"NO":1487123405.2532,"payload":"0000","timestamp":1487123405.3535}
+bytes: 4 NO: 1487123405.2532 delay2 is: 0.406027 ms
+{"NO":1487123405.354,"payload":"0000","timestamp":1487123405.4548}
+bytes: 4 NO: 1487123405.354 delay2 is: 0.611067 ms
